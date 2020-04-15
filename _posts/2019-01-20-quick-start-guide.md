@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quick Start Guide"
+title:  "Setting this website up"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg

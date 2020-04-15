@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Never stopped worrying or loving the bomb"
+title:  "Revolutionising agriculture with technology"
 author: sal
 categories: [ Jekyll ]
 image: assets/images/14.jpg

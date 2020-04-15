@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is Jekyll"
+title:  "River water quality vs the economic output"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg

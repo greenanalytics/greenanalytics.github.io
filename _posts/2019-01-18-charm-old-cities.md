@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
-author: jane
+title:  "Empty Streets amidst the lockdown"
+author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]

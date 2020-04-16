@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revolutionising agriculture with technology"
-author: sal
+author: utkarsh
 categories: [ Jekyll ]
 image: assets/images/14.jpg
 tags: featured

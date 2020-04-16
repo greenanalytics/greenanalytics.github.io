@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Empty Streets amidst the lockdown"
-author: sal
+author: utkarsh
 categories: [ Jekyll, tutorial ]
 image: assets/images/home.jpg
 tags: [sticky]

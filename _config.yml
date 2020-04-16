@@ -1,10 +1,10 @@
 # Site
 name: 'Green Analytics'
-description: 'An interseting take on the changes in the environment around us'
+description: 'An interseting take on the changes in the environment around us.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
+disqus: 'greenanalytica'
 email: 'utkarshrai98@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
@@ -19,18 +19,18 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Utkarsh Rai
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Utkarsh, the author of Green Analytics. I hope you like it!"
+    utkarsh:
+      name:           Utkarsh
+      site:           http://www.utkarshrai.in
+      avatar:         assets/images/utkarsh_avatar.jpg
+      bio:            "Hi, I am Utkarsh, the creator of Green Analytics. I hope you like it!"
       email:          utkarshrai98@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://twitter.com/utkarshrai98
 
     jane:
-      name:           My imaginary girl
+      name:           jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "She doesn't exist for now"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -43,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: utkarsh
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "River water quality vs the economic output"
-author: jane
-categories: [ Jekyll, tutorial ]
+author: utkarsh
+categories: [ water ]
 image: assets/images/11.jpg
 ---
 

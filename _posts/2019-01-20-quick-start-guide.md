@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Setting this website up"
-author: sal
+author: utkarsh
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 ---

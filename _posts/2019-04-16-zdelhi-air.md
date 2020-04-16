@@ -8,7 +8,7 @@ tags: featured
 ---
 The popular opinion backed by real-time data has been that the nation-wide lockdown has improved the quality of air the residents of Delhi breathe. In this article, we explore a few skeptical assessments to this statement using an interactive comparison of PM2.5 data taken from the US Embassy in Delhi scraped from AQICN.
 
-<iframe style="position: relative; overflow: hidden;width: 100%; height: 55vh; border: none;" src="/delhi_chart" scrolling="no"></iframe>
+<iframe style="position: relative; overflow: hidden;width: 100%; height: 55vh; border: none;" src="/delhi_chart"></iframe>
 
 #### Onset of Summer improves Air Quality every year
 Delhi's air begins to deteriorate September end and continues to be hazardous throughout winters. However, as is clear from the plot above, starting February end, it experiences improvements in PM2.5 numbers and has done so for 3 years straight. This assessment is important because there are several articles that show only 2020's data claiming the improvements are only because of the lockdown ignoring historical trends.

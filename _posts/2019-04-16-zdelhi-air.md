@@ -3,7 +3,7 @@ layout: post
 title:  "Delhi's air amidst the lockdown"
 author: utkarsh
 categories: [ air, interactive ]
-image: assets/images/11.jpg
+image: assets/images/delhi_air.jpg
 tags: featured
 ---
 The popular opinion backed by real time data has been that the nation-wide lockdown has improved the quality of air the residents of Delhi breathe. In this article we explore a few skeptical assessments to this statement using an interactive comparision of PM2.5 data taken from the US Embassay in Delhi scraped from AQICN.

@@ -21,11 +21,12 @@ plugins:
 authors:
     utkarsh:
       name:           Utkarsh
-      site:           http://www.utkarshrai.in
+      site:           https://www.utkarshrai.in
       avatar:         assets/images/utkarsh_avatar.jpg
       bio:            "Hi, I am Utkarsh, the creator of Green Analytics. I hope you like it!"
       email:          utkarshrai98@gmail.com
       twitter:        https://twitter.com/utkarshrai98
+      linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
 
     jane:
       name:           jane
@@ -34,6 +35,7 @@ authors:
       bio:            "She doesn't exist for now"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+      linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
  
 # Defaults
 defaults:
@@ -44,7 +46,7 @@ defaults:
     values:
       layout: post
       author: utkarsh
-      avatar: assets/images/avatar1.jpg
+      avatar: assets/images/utkarsh_avatar.jpg
       
   # all pages
   - scope:

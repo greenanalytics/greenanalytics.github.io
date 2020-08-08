@@ -31,10 +31,10 @@
 <loc>http://localhost:4000/about.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/author-jane.html</loc>
+<loc>http://localhost:4000/author-gbkms.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/author-utkarsh.html</loc>
+<loc>http://localhost:4000/author-jane.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/authors-list.html</loc>
@@ -56,9 +56,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags.html</loc>
-</url>
-<url>
-<loc>http://localhost:4000/delhi_chart.html</loc>
-<lastmod>2020-04-16T20:02:08+05:30</lastmod>
 </url>
 </urlset>

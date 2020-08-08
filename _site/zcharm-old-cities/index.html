@@ -67,12 +67,14 @@
 <a class="nav-link" href="/index.html">Home</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/authors-list.html">Authors</a>
+<a class="nav-link" href="/authors-list.html">Team</a>
 </li>
 <li class="nav-item">
 <a class="nav-link" href="/contact.html">Contact</a>
 </li>
-
+<li class="nav-item">
+<a class="nav-link" href="/buy-me-a-coffee.html">Donate</a>
+</li>
 
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
@@ -96,17 +98,17 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/about.html",
     "title": "About",
-    "body": "Made with by Sal @wowthemesnet. "
+    "body": "Made with by Utkarsh "
     }, {
     "id": 2,
+    "url": "http://localhost:4000/author-gbkms.html",
+    "title": "GBKMS",
+    "body": "                        {{page. title}} Follow:         {{ site. authors. gbkms. site }}         {{ site. authors. gbkms. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , gbkms  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
+    }, {
+    "id": 3,
     "url": "http://localhost:4000/author-jane.html",
     "title": "Dr. Asha Rai",
     "body": "                        {{page. title}} Follow:         {{ site. authors. jane. site }}         {{ site. authors. jane. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , jane  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
-    }, {
-    "id": 3,
-    "url": "http://localhost:4000/author-utkarsh.html",
-    "title": "GBKMS",
-    "body": "                        {{page. title}} Follow:         {{ site. authors. utkarsh. site }}         {{ site. authors. utkarsh. bio }}                                   Posts by {{page. title}}:       {% assign posts = site. posts | where: author , utkarsh  %}      {% for post in posts %}      {% include main-loop-card. html %}      {% endfor %}  "
     }, {
     "id": 4,
     "url": "http://localhost:4000/authors-list.html",
@@ -116,7 +118,7 @@ var documents = [{
     "id": 5,
     "url": "http://localhost:4000/buy-me-a-coffee.html",
     "title": "Buy me a coffee",
-    "body": "Hi! I am Sal, web designer &amp; developer at WowThemes. net. The free items I create are my side projects and Mundana for Jekyll is one of them. You can find all the work I release for free here. You have my permission to use the free items I develop in your personal, commercial or client projects. If you’d like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. Thank you so much! Buy me a coffee "
+    "body": "Still working on this page. Donate "
     }, {
     "id": 6,
     "url": "http://localhost:4000/categories.html",
@@ -381,15 +383,7 @@ function lunr_search(term) {
 <div id="comments" class="mt-5">
     <div id="disqus_thread">
     </div>
-    <script type="text/javascript">
-        var disqus_shortname = 'greenanalytica'; 
-        var disqus_developer = 0;
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
+    
     <noscript>
     Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
     </noscript>

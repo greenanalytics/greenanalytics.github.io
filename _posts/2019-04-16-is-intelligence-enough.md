@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Is the environment really healing"
+title:  "स्वतंत्रता दिवस के अवसर पर, ज्ञानोदय  बाल एवं महिला कल्याण समिति द्वारा झण्डारोहण के उपरांत कई कार्यक्रम आयोजित किये गए।"
 author: utkarsh
-categories: [ Jekyll, tutorial ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+categories: [ events ]
+image: assets/images/independence.jpg
 ---
 This is dummy content. 
 

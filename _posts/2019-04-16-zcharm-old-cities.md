@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Lockdown presents the perfect opportunity to study the environment"
+title:  "Birthday celebration of Honourable Anupriya Patel Ji, Minister of State in the Ministry of Health and Family Welfare."
 author: utkarsh
-categories: [ opinion]
-image: assets/images/home.jpg
+categories: [ events,government,news]
+image: assets/images/anupriya.jpg
 tags: [sticky]
 ---
 This is dummy content. 

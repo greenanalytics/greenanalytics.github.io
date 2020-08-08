@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Setting this website up"
+title:  "अंतरराष्ट्रीय योग दिवस के अवसर पर ज्ञानोदय बाल एवं महिला कल्याण समिति मीरजापुर द्वारा आयोजित योग कार्यक्रम"
 author: utkarsh
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+categories: [ events,activities ]
+image: assets/images/yoga.jpg
 ---
 This is dummy content. 

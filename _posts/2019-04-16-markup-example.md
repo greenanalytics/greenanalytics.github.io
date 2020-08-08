@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Markdown Example"
+title:  "मतदाता जागरूकता दिवस कार्यक्रम"
 author: utkarsh
-categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+categories: [ activities]
+image: assets/images/matdata.jpg
 ---
 This is dummy content.

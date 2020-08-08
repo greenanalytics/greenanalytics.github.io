@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our Mission"
-author: utkarsh
+author: gbkms
 categories: [vision ]
 image: assets/images/mission.jpg
 tags: featured

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "मतदाता जागरूकता दिवस कार्यक्रम"
-author: utkarsh
+author: gbkms
 categories: [ activities]
 image: assets/images/matdata.jpg
 ---

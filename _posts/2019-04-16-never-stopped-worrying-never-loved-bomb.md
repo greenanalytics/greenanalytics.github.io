@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "हस्त निर्मित त्रिस्तरीय फेसमास्क"
-author: utkarsh
+author: gbkms
 categories: [ activities ]
 image: assets/images/facemask.jpg
 tags: featured

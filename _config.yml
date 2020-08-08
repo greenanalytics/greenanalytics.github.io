@@ -19,19 +19,19 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    utkarsh:
+    gbkms:
       name:           GBKMS
       site:           https://www.utkarshrai.in
-      avatar:         assets/images/utkarsh_avatar.jpg
+      avatar:         assets/images/avatar.jpg
       bio:            "Hi, I am Utkarsh, the creator of this page. I hope you like it!"
       email:          utkarshrai98@gmail.com
       twitter:        https://twitter.com/utkarshrai98
       linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
 
-    jane:
+    kirtika:
       name:           Kirtika Sharma
       site:           https://www.wowthemes.net
-      avatar:         assets/images/avatar2.jpg
+      avatar:         assets/images/kirtika.jpg
       bio:            "Secretary"
       email:          gyanoday.bmks@gmail.com
       twitter:        https://twitter.com/wowthemesnet

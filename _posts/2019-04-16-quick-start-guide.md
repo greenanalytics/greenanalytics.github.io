@@ -5,4 +5,5 @@ author: gbkms
 categories: [ events,activities ]
 image: assets/images/yoga.jpg
 ---
-This is dummy content. 
+Yoga brings numerous health benefits, uplifts the spirit and enhances intuitive ability. Let us include Yoga in our daily regime to keep our mind & body balanced.You cannot Always Control what goes on Outside,But you can Always Control what goes on inside .
+#IDY2018 #Yoga #InternationalDayOfYoga #SwasthaBharat #AyushmanBharat

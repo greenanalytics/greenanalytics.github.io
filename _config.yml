@@ -1,5 +1,5 @@
 # Site
-name: 'ज्ञानोदय बाल एवम महिला कल्याण समिति'
+name: 'ज्ञानोदय बाल एवं महिला कल्याण समिति'
 description: 'NGO, Mirzzapur'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
@@ -23,18 +23,29 @@ authors:
       name:           GBKMS
       site:           https://www.utkarshrai.in
       avatar:         assets/images/avatar.jpg
-      bio:            "Hi, I am Utkarsh, the creator of this page. I hope you like it!"
-      email:          utkarshrai98@gmail.com
-      twitter:        https://twitter.com/utkarshrai98
-      linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
+      bio:            "Gyanodaya Bal avam Mahila Kalyan Samiti (GBMKS)"
+      email:          gyanoday.bmks@gmail.com
 
     kirtika:
       name:           Kirtika Sharma
       site:           https://www.wowthemes.net
       avatar:         assets/images/kirtika.jpg
-      bio:            "Secretary"
+      bio:            "Secretary-GBMKS-9140523092"
       email:          gyanoday.bmks@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+
+    rashmika:
+      name:           Rashmika Tripathi
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/monu.jpg
+      bio:            "Treasurer"
+      email:          gyanoday.bmks@gmail.com
+
+    utkarsh:
+      name:           Utkarsh Rai
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/utkarsh_rai.jpg
+      bio:            "Website management"
+      email:          gyanoday.bmks@gmail.com
       linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
  
 # Defaults

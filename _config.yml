@@ -20,7 +20,7 @@ plugins:
   
 authors:
     utkarsh:
-      name:           Utkarsh
+      name:           GBKMS
       site:           https://www.utkarshrai.in
       avatar:         assets/images/utkarsh_avatar.jpg
       bio:            "Hi, I am Utkarsh, the creator of this page. I hope you like it!"
@@ -29,10 +29,10 @@ authors:
       linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
 
     jane:
-      name:           Dr. Asha Rai
+      name:           Kirtika Sharma
       site:           https://www.wowthemes.net
       avatar:         assets/images/avatar2.jpg
-      bio:            "Founder of Gyanoday BMKS"
+      bio:            "Secretary"
       email:          gyanoday.bmks@gmail.com
       twitter:        https://twitter.com/wowthemesnet
       linkedin:       https://www.linkedin.com/in/utkarsh-rai-b71878111/
@@ -46,7 +46,7 @@ defaults:
     values:
       layout: post
       author: utkarsh
-      avatar: assets/images/utkarsh_avatar.jpg
+      avatar: assets/images/avatar.jpg
       
   # all pages
   - scope:
